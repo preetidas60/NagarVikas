@@ -564,14 +564,21 @@ We welcome contributions! Please read our [Contributing Guidelines](Contributing
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/garys-demons">
+                    <img src="https://avatars.githubusercontent.com/u/178498812?v=4" width="100;" alt="garys-demons"/>
+                    <br />
+                    <sub><b>garys-demons</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/Niranjan421">
                     <img src="https://avatars.githubusercontent.com/u/116334937?v=4" width="100;" alt="Niranjan421"/>
                     <br />
                     <sub><b>Niranjan421</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Soumyosish">
                     <img src="https://avatars.githubusercontent.com/u/144246473?v=4" width="100;" alt="Soumyosish"/>
