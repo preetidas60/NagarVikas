@@ -543,10 +543,10 @@ We welcome contributions! Please read our [Contributing Guidelines](Contributing
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/PearlGrell">
-                    <img src="https://avatars.githubusercontent.com/u/185500672?v=4" width="100;" alt="PearlGrell"/>
+                <a href="https://github.com/GxAditya">
+                    <img src="https://avatars.githubusercontent.com/u/177012111?v=4" width="100;" alt="GxAditya"/>
                     <br />
-                    <sub><b>PearlGrell</b></sub>
+                    <sub><b>GxAditya</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -557,10 +557,10 @@ We welcome contributions! Please read our [Contributing Guidelines](Contributing
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/GxAditya">
-                    <img src="https://avatars.githubusercontent.com/u/177012111?v=4" width="100;" alt="GxAditya"/>
+                <a href="https://github.com/PearlGrell">
+                    <img src="https://avatars.githubusercontent.com/u/185500672?v=4" width="100;" alt="PearlGrell"/>
                     <br />
-                    <sub><b>GxAditya</b></sub>
+                    <sub><b>PearlGrell</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -584,6 +584,13 @@ We welcome contributions! Please read our [Contributing Guidelines](Contributing
                     <img src="https://avatars.githubusercontent.com/u/116334937?v=4" width="100;" alt="Niranjan421"/>
                     <br />
                     <sub><b>Niranjan421</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sandy4242">
+                    <img src="https://avatars.githubusercontent.com/u/152861071?v=4" width="100;" alt="sandy4242"/>
+                    <br />
+                    <sub><b>sandy4242</b></sub>
                 </a>
             </td>
             <td align="center">
